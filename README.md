@@ -1,4 +1,4 @@
-# Rbfactor -- Refactoring Ruby code in Vim
+# Rbfactor – Refactoring Ruby with Vim
 
 ## Introduction
 
